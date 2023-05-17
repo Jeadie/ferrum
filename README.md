@@ -1,0 +1,2 @@
+# ferrum
+Learning rust (maybe)
